@@ -1,2 +1,2 @@
 day la file tdc cua branch tdc
-A1
+B1
